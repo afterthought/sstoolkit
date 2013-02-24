@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5841B48416013CDE000C05BD /* NSMutableArray+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 5841B48216013CDE000C05BD /* NSMutableArray+SSToolkitAdditions.h */; };
+		5841B48416013CDE000C05BD /* NSMutableArray+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 5841B48216013CDE000C05BD /* NSMutableArray+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5841B48516013CDE000C05BD /* NSMutableArray+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 5841B48316013CDE000C05BD /* NSMutableArray+SSToolkitAdditions.m */; };
-		962F5F5E156CCD1200408648 /* NSNumber+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 962F5F5B156CCD1200408648 /* NSNumber+SSToolkitAdditions.h */; };
+		962F5F5E156CCD1200408648 /* NSNumber+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 962F5F5B156CCD1200408648 /* NSNumber+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		962F5F5F156CCD1200408648 /* NSNumber+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 962F5F5C156CCD1200408648 /* NSNumber+SSToolkitAdditions.m */; };
 		9EB278B114BBC4360077194C /* SSConcurrentOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E11121DC29A0085F81E /* SSConcurrentOperation.m */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
-		B2136B3C13ABCC0C00FEBCFD /* SSBorderedView.h in Headers */ = {isa = PBXBuildFile; fileRef = B2136B3A13ABCC0C00FEBCFD /* SSBorderedView.h */; };
+		B2136B3C13ABCC0C00FEBCFD /* SSBorderedView.h in Headers */ = {isa = PBXBuildFile; fileRef = B2136B3A13ABCC0C00FEBCFD /* SSBorderedView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2136B3D13ABCC0C00FEBCFD /* SSBorderedView.m in Sources */ = {isa = PBXBuildFile; fileRef = B2136B3B13ABCC0C00FEBCFD /* SSBorderedView.m */; };
 		B215045F10583A7300409ED4 /* SSToolkit_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = B215045E10583A7300409ED4 /* SSToolkit_Prefix.pch */; };
 		B215051210583BBB00409ED4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B215051110583BBB00409ED4 /* UIKit.framework */; };
 		B21D2E00121F2FE500161E66 /* SSDrawingUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = B21D2DFF121F2FE500161E66 /* SSDrawingUtilities.m */; };
-		B227D2EA124931590078A059 /* NSDictionary+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B227D2E8124931590078A059 /* NSDictionary+SSToolkitAdditions.h */; };
+		B227D2EA124931590078A059 /* NSDictionary+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B227D2E8124931590078A059 /* NSDictionary+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B227D2EB124931590078A059 /* NSDictionary+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B227D2E9124931590078A059 /* NSDictionary+SSToolkitAdditions.m */; };
 		B229B468144CE2F500F71626 /* SSCollectionViewTableView.h in Headers */ = {isa = PBXBuildFile; fileRef = B229B466144CE2F500F71626 /* SSCollectionViewTableView.h */; };
 		B229B469144CE2F500F71626 /* SSCollectionViewTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = B229B467144CE2F500F71626 /* SSCollectionViewTableView.m */; };
@@ -58,99 +58,99 @@
 		B2453A1D1394AE5000275B6B /* DictionaryCategoryTest.m in Sources */ = {isa = PBXBuildFile; fileRef = B23910A71357DED300ADE21B /* DictionaryCategoryTest.m */; };
 		B2453A1E1394AE5000275B6B /* StringCategoryTest.m in Sources */ = {isa = PBXBuildFile; fileRef = B23910A81357DED300ADE21B /* StringCategoryTest.m */; };
 		B2453A1F1394AE5000275B6B /* URLCategoryTest.m in Sources */ = {isa = PBXBuildFile; fileRef = B23910C31357E08E00ADE21B /* URLCategoryTest.m */; };
-		B24E9E43121DC29A0085F81E /* NSArray+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E05121DC29A0085F81E /* NSArray+SSToolkitAdditions.h */; };
+		B24E9E43121DC29A0085F81E /* NSArray+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E05121DC29A0085F81E /* NSArray+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E44121DC29A0085F81E /* NSArray+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E06121DC29A0085F81E /* NSArray+SSToolkitAdditions.m */; };
-		B24E9E45121DC29A0085F81E /* NSData+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E07121DC29A0085F81E /* NSData+SSToolkitAdditions.h */; };
+		B24E9E45121DC29A0085F81E /* NSData+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E07121DC29A0085F81E /* NSData+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E46121DC29A0085F81E /* NSData+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E08121DC29A0085F81E /* NSData+SSToolkitAdditions.m */; };
-		B24E9E47121DC29A0085F81E /* NSDate+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E09121DC29A0085F81E /* NSDate+SSToolkitAdditions.h */; };
+		B24E9E47121DC29A0085F81E /* NSDate+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E09121DC29A0085F81E /* NSDate+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E48121DC29A0085F81E /* NSDate+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E0A121DC29A0085F81E /* NSDate+SSToolkitAdditions.m */; };
-		B24E9E49121DC29A0085F81E /* NSString+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E0B121DC29A0085F81E /* NSString+SSToolkitAdditions.h */; };
+		B24E9E49121DC29A0085F81E /* NSString+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E0B121DC29A0085F81E /* NSString+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E4A121DC29A0085F81E /* NSString+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E0C121DC29A0085F81E /* NSString+SSToolkitAdditions.m */; };
-		B24E9E4B121DC29A0085F81E /* NSURL+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E0D121DC29A0085F81E /* NSURL+SSToolkitAdditions.h */; };
+		B24E9E4B121DC29A0085F81E /* NSURL+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E0D121DC29A0085F81E /* NSURL+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E4C121DC29A0085F81E /* NSURL+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E0E121DC29A0085F81E /* NSURL+SSToolkitAdditions.m */; };
-		B24E9E4D121DC29A0085F81E /* SSCategories.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E0F121DC29A0085F81E /* SSCategories.h */; };
-		B24E9E4E121DC29A0085F81E /* SSConcurrentOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E10121DC29A0085F81E /* SSConcurrentOperation.h */; };
-		B24E9E50121DC29A0085F81E /* SSDrawingUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E12121DC29A0085F81E /* SSDrawingUtilities.h */; };
-		B24E9E51121DC29A0085F81E /* SSGradientView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E13121DC29A0085F81E /* SSGradientView.h */; };
+		B24E9E4D121DC29A0085F81E /* SSCategories.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E0F121DC29A0085F81E /* SSCategories.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B24E9E4E121DC29A0085F81E /* SSConcurrentOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E10121DC29A0085F81E /* SSConcurrentOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B24E9E50121DC29A0085F81E /* SSDrawingUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E12121DC29A0085F81E /* SSDrawingUtilities.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B24E9E51121DC29A0085F81E /* SSGradientView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E13121DC29A0085F81E /* SSGradientView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E52121DC29A0085F81E /* SSGradientView.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E14121DC29A0085F81E /* SSGradientView.m */; };
-		B24E9E53121DC29A0085F81E /* SSHUDView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E15121DC29A0085F81E /* SSHUDView.h */; };
+		B24E9E53121DC29A0085F81E /* SSHUDView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E15121DC29A0085F81E /* SSHUDView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E54121DC29A0085F81E /* SSHUDView.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E16121DC29A0085F81E /* SSHUDView.m */; };
-		B24E9E59121DC29A0085F81E /* SSLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E1B121DC29A0085F81E /* SSLabel.h */; };
+		B24E9E59121DC29A0085F81E /* SSLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E1B121DC29A0085F81E /* SSLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E5A121DC29A0085F81E /* SSLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E1C121DC29A0085F81E /* SSLabel.m */; };
-		B24E9E5B121DC29A0085F81E /* SSLineView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E1D121DC29A0085F81E /* SSLineView.h */; };
+		B24E9E5B121DC29A0085F81E /* SSLineView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E1D121DC29A0085F81E /* SSLineView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E5C121DC29A0085F81E /* SSLineView.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E1E121DC29A0085F81E /* SSLineView.m */; };
-		B24E9E5D121DC29A0085F81E /* SSLoadingView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E1F121DC29A0085F81E /* SSLoadingView.h */; };
+		B24E9E5D121DC29A0085F81E /* SSLoadingView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E1F121DC29A0085F81E /* SSLoadingView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E5E121DC29A0085F81E /* SSLoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E20121DC29A0085F81E /* SSLoadingView.m */; };
-		B24E9E66121DC29A0085F81E /* SSPickerViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E28121DC29A0085F81E /* SSPickerViewController.h */; };
+		B24E9E66121DC29A0085F81E /* SSPickerViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E28121DC29A0085F81E /* SSPickerViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E67121DC29A0085F81E /* SSPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E29121DC29A0085F81E /* SSPickerViewController.m */; };
-		B24E9E68121DC29A0085F81E /* SSPieProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E2A121DC29A0085F81E /* SSPieProgressView.h */; };
+		B24E9E68121DC29A0085F81E /* SSPieProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E2A121DC29A0085F81E /* SSPieProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E69121DC29A0085F81E /* SSPieProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E2B121DC29A0085F81E /* SSPieProgressView.m */; };
-		B24E9E6A121DC29A0085F81E /* SSTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E2C121DC29A0085F81E /* SSTextField.h */; };
+		B24E9E6A121DC29A0085F81E /* SSTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E2C121DC29A0085F81E /* SSTextField.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E6B121DC29A0085F81E /* SSTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E2D121DC29A0085F81E /* SSTextField.m */; };
-		B24E9E6C121DC29A0085F81E /* SSTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E2E121DC29A0085F81E /* SSTextView.h */; };
+		B24E9E6C121DC29A0085F81E /* SSTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E2E121DC29A0085F81E /* SSTextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E6D121DC29A0085F81E /* SSTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E2F121DC29A0085F81E /* SSTextView.m */; };
-		B24E9E6E121DC29A0085F81E /* SSToolkit.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E30121DC29A0085F81E /* SSToolkit.h */; };
-		B24E9E71121DC29A0085F81E /* SSWebView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E33121DC29A0085F81E /* SSWebView.h */; };
+		B24E9E6E121DC29A0085F81E /* SSToolkit.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E30121DC29A0085F81E /* SSToolkit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B24E9E71121DC29A0085F81E /* SSWebView.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E33121DC29A0085F81E /* SSWebView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E72121DC29A0085F81E /* SSWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E34121DC29A0085F81E /* SSWebView.m */; };
-		B24E9E73121DC29A0085F81E /* UIColor+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E35121DC29A0085F81E /* UIColor+SSToolkitAdditions.h */; };
+		B24E9E73121DC29A0085F81E /* UIColor+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E35121DC29A0085F81E /* UIColor+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E74121DC29A0085F81E /* UIColor+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E36121DC29A0085F81E /* UIColor+SSToolkitAdditions.m */; };
-		B24E9E75121DC29A0085F81E /* UIControl+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E37121DC29A0085F81E /* UIControl+SSToolkitAdditions.h */; };
+		B24E9E75121DC29A0085F81E /* UIControl+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E37121DC29A0085F81E /* UIControl+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E76121DC29A0085F81E /* UIControl+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E38121DC29A0085F81E /* UIControl+SSToolkitAdditions.m */; };
-		B24E9E77121DC29A0085F81E /* UIDevice+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E39121DC29A0085F81E /* UIDevice+SSToolkitAdditions.h */; };
+		B24E9E77121DC29A0085F81E /* UIDevice+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E39121DC29A0085F81E /* UIDevice+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E78121DC29A0085F81E /* UIDevice+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E3A121DC29A0085F81E /* UIDevice+SSToolkitAdditions.m */; };
-		B24E9E79121DC29A0085F81E /* UIImage+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E3B121DC29A0085F81E /* UIImage+SSToolkitAdditions.h */; };
+		B24E9E79121DC29A0085F81E /* UIImage+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E3B121DC29A0085F81E /* UIImage+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E7A121DC29A0085F81E /* UIImage+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E3C121DC29A0085F81E /* UIImage+SSToolkitAdditions.m */; };
-		B24E9E7B121DC29A0085F81E /* UIScrollView+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E3D121DC29A0085F81E /* UIScrollView+SSToolkitAdditions.h */; };
+		B24E9E7B121DC29A0085F81E /* UIScrollView+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E3D121DC29A0085F81E /* UIScrollView+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E7C121DC29A0085F81E /* UIScrollView+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E3E121DC29A0085F81E /* UIScrollView+SSToolkitAdditions.m */; };
-		B24E9E7D121DC29A0085F81E /* UIView+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E3F121DC29A0085F81E /* UIView+SSToolkitAdditions.h */; };
+		B24E9E7D121DC29A0085F81E /* UIView+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E3F121DC29A0085F81E /* UIView+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E7E121DC29A0085F81E /* UIView+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E40121DC29A0085F81E /* UIView+SSToolkitAdditions.m */; };
-		B24E9E7F121DC29A0085F81E /* UIViewController+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E41121DC29A0085F81E /* UIViewController+SSToolkitAdditions.h */; };
+		B24E9E7F121DC29A0085F81E /* UIViewController+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B24E9E41121DC29A0085F81E /* UIViewController+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B24E9E80121DC29A0085F81E /* UIViewController+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B24E9E42121DC29A0085F81E /* UIViewController+SSToolkitAdditions.m */; };
 		B25C8E601394327000DE7BFF /* SSCollectionViewExtremityTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B2B456FC139078B80060C279 /* SSCollectionViewExtremityTableViewCell.m */; };
 		B25C8E611394327000DE7BFF /* SSCollectionViewExtremityTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = B2B456FB139078B80060C279 /* SSCollectionViewExtremityTableViewCell.h */; };
-		B267D3451226CE0400B66519 /* SSCollectionViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = B267D3431226CE0400B66519 /* SSCollectionViewController.h */; };
+		B267D3451226CE0400B66519 /* SSCollectionViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = B267D3431226CE0400B66519 /* SSCollectionViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B267D3461226CE0400B66519 /* SSCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B267D3441226CE0400B66519 /* SSCollectionViewController.m */; };
 		B2721BA0132F136C00D762FD /* SSCollectionViewInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = B2721B9F132F136C00D762FD /* SSCollectionViewInternal.h */; };
-		B279539912FC67E300FFE28D /* UIScreen+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B279539712FC67E300FFE28D /* UIScreen+SSToolkitAdditions.h */; };
+		B279539912FC67E300FFE28D /* UIScreen+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B279539712FC67E300FFE28D /* UIScreen+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B279539A12FC67E300FFE28D /* UIScreen+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B279539812FC67E300FFE28D /* UIScreen+SSToolkitAdditions.m */; };
 		B279539E12FC6C6F00FFE28D /* SSRatingPickerScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = B279539C12FC6C6F00FFE28D /* SSRatingPickerScrollView.h */; };
 		B279539F12FC6C6F00FFE28D /* SSRatingPickerScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B279539D12FC6C6F00FFE28D /* SSRatingPickerScrollView.m */; };
-		B27B1A1B12241D3400111EA2 /* SSCollectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = B27B1A1912241D3400111EA2 /* SSCollectionView.h */; };
+		B27B1A1B12241D3400111EA2 /* SSCollectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = B27B1A1912241D3400111EA2 /* SSCollectionView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B27B1A1C12241D3400111EA2 /* SSCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = B27B1A1A12241D3400111EA2 /* SSCollectionView.m */; };
-		B27B1A2212241D6F00111EA2 /* SSCollectionViewItem.h in Headers */ = {isa = PBXBuildFile; fileRef = B27B1A2012241D6F00111EA2 /* SSCollectionViewItem.h */; };
+		B27B1A2212241D6F00111EA2 /* SSCollectionViewItem.h in Headers */ = {isa = PBXBuildFile; fileRef = B27B1A2012241D6F00111EA2 /* SSCollectionViewItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B27B1A2312241D6F00111EA2 /* SSCollectionViewItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B27B1A2112241D6F00111EA2 /* SSCollectionViewItem.m */; };
 		B280E25D13BA769C00FCDA5C /* SSAnimatedImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = B290355913B9236E00CCAFC9 /* SSAnimatedImageView.m */; };
-		B280E25F13BA76A300FCDA5C /* SSAnimatedImageView.h in Headers */ = {isa = PBXBuildFile; fileRef = B290355813B9236E00CCAFC9 /* SSAnimatedImageView.h */; };
+		B280E25F13BA76A300FCDA5C /* SSAnimatedImageView.h in Headers */ = {isa = PBXBuildFile; fileRef = B290355813B9236E00CCAFC9 /* SSAnimatedImageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B28218BE12FA6AE100BAF3C6 /* SSToolkitDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = B28218BC12FA6AE100BAF3C6 /* SSToolkitDefines.h */; };
 		B28218BF12FA6AE100BAF3C6 /* SSToolkitDefines.m in Sources */ = {isa = PBXBuildFile; fileRef = B28218BD12FA6AE100BAF3C6 /* SSToolkitDefines.m */; };
-		B28219DD12FA8EB500BAF3C6 /* SSRatingPicker.h in Headers */ = {isa = PBXBuildFile; fileRef = B28219DB12FA8EB500BAF3C6 /* SSRatingPicker.h */; };
+		B28219DD12FA8EB500BAF3C6 /* SSRatingPicker.h in Headers */ = {isa = PBXBuildFile; fileRef = B28219DB12FA8EB500BAF3C6 /* SSRatingPicker.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B28219DE12FA8EB500BAF3C6 /* SSRatingPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = B28219DC12FA8EB500BAF3C6 /* SSRatingPicker.m */; };
-		B28C6D0712FBE5C400667755 /* SSRatingPickerViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = B28C6D0512FBE5C400667755 /* SSRatingPickerViewController.h */; };
+		B28C6D0712FBE5C400667755 /* SSRatingPickerViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = B28C6D0512FBE5C400667755 /* SSRatingPickerViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B28C6D0812FBE5C400667755 /* SSRatingPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B28C6D0612FBE5C400667755 /* SSRatingPickerViewController.m */; };
 		B2ABC6921329D14300521D20 /* SSCollectionViewItemTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = B2ABC6901329D14300521D20 /* SSCollectionViewItemTableViewCell.h */; };
 		B2ABC6931329D14300521D20 /* SSCollectionViewItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B2ABC6911329D14300521D20 /* SSCollectionViewItemTableViewCell.m */; };
-		B2AE1134126F963300534CF2 /* UIApplication+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B2AE1132126F963300534CF2 /* UIApplication+SSToolkitAdditions.h */; };
+		B2AE1134126F963300534CF2 /* UIApplication+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B2AE1132126F963300534CF2 /* UIApplication+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2AE1135126F963300534CF2 /* UIApplication+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B2AE1133126F963300534CF2 /* UIApplication+SSToolkitAdditions.m */; };
 		B2C507EC151BA64400E94614 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2C507EB151BA64400E94614 /* CoreFoundation.framework */; };
-		B2C50814151BAB4000E94614 /* NSBundle+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B2C50812151BAB4000E94614 /* NSBundle+SSToolkitAdditions.h */; };
+		B2C50814151BAB4000E94614 /* NSBundle+SSToolkitAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B2C50812151BAB4000E94614 /* NSBundle+SSToolkitAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2C50815151BAB4000E94614 /* NSBundle+SSToolkitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B2C50813151BAB4000E94614 /* NSBundle+SSToolkitAdditions.m */; };
 		B2C50816151BAE8800E94614 /* SSToolkit.strings in Resources */ = {isa = PBXBuildFile; fileRef = B2C5080F151BA6C500E94614 /* SSToolkit.strings */; };
-		B2C7ED6C153A5624006ABE73 /* SSButton.h in Headers */ = {isa = PBXBuildFile; fileRef = B2C7ED6A153A5624006ABE73 /* SSButton.h */; };
+		B2C7ED6C153A5624006ABE73 /* SSButton.h in Headers */ = {isa = PBXBuildFile; fileRef = B2C7ED6A153A5624006ABE73 /* SSButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2C7ED6D153A5624006ABE73 /* SSButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B2C7ED6B153A5624006ABE73 /* SSButton.m */; };
-		B2D8829413328EEF006B3F55 /* SSHUDWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = B2D8829213328EEF006B3F55 /* SSHUDWindow.h */; };
+		B2D8829413328EEF006B3F55 /* SSHUDWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = B2D8829213328EEF006B3F55 /* SSHUDWindow.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2D8829513328EEF006B3F55 /* SSHUDWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = B2D8829313328EEF006B3F55 /* SSHUDWindow.m */; };
 		B2D883C01332D636006B3F55 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2D883BF1332D636006B3F55 /* QuartzCore.framework */; };
-		B2E241541301C71400F7DC3B /* SSAddressBarTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E2414E1301C71400F7DC3B /* SSAddressBarTextField.h */; };
+		B2E241541301C71400F7DC3B /* SSAddressBarTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E2414E1301C71400F7DC3B /* SSAddressBarTextField.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2E241551301C71400F7DC3B /* SSAddressBarTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E2414F1301C71400F7DC3B /* SSAddressBarTextField.m */; };
 		B2E241561301C71400F7DC3B /* SSAddressBarTextFieldBackgroundView.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E241501301C71400F7DC3B /* SSAddressBarTextFieldBackgroundView.h */; };
 		B2E241571301C71400F7DC3B /* SSAddressBarTextFieldBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E241511301C71400F7DC3B /* SSAddressBarTextFieldBackgroundView.m */; };
 		B2E241581301C71400F7DC3B /* SSAddressBarTextFieldBackgroundViewInnerView.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E241521301C71400F7DC3B /* SSAddressBarTextFieldBackgroundViewInnerView.h */; };
 		B2E241591301C71400F7DC3B /* SSAddressBarTextFieldBackgroundViewInnerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E241531301C71400F7DC3B /* SSAddressBarTextFieldBackgroundViewInnerView.m */; };
-		B2EA9F5E12F4A5C900C929D6 /* SSBadgeTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = B2EA9F5C12F4A5C900C929D6 /* SSBadgeTableViewCell.h */; };
+		B2EA9F5E12F4A5C900C929D6 /* SSBadgeTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = B2EA9F5C12F4A5C900C929D6 /* SSBadgeTableViewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2EA9F5F12F4A5C900C929D6 /* SSBadgeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B2EA9F5D12F4A5C900C929D6 /* SSBadgeTableViewCell.m */; };
-		B2EA9F6212F4A5E100C929D6 /* SSBadgeView.h in Headers */ = {isa = PBXBuildFile; fileRef = B2EA9F6012F4A5E100C929D6 /* SSBadgeView.h */; };
+		B2EA9F6212F4A5E100C929D6 /* SSBadgeView.h in Headers */ = {isa = PBXBuildFile; fileRef = B2EA9F6012F4A5E100C929D6 /* SSBadgeView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2EA9F6312F4A5E100C929D6 /* SSBadgeView.m in Sources */ = {isa = PBXBuildFile; fileRef = B2EA9F6112F4A5E100C929D6 /* SSBadgeView.m */; };
-		B2F72A131534D54C00556B66 /* SSRateLimit.h in Headers */ = {isa = PBXBuildFile; fileRef = B2F72A111534D54C00556B66 /* SSRateLimit.h */; };
+		B2F72A131534D54C00556B66 /* SSRateLimit.h in Headers */ = {isa = PBXBuildFile; fileRef = B2F72A111534D54C00556B66 /* SSRateLimit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2F72A141534D54C00556B66 /* SSRateLimit.m in Sources */ = {isa = PBXBuildFile; fileRef = B2F72A121534D54C00556B66 /* SSRateLimit.m */; };
 		B2FC71BB1330424F00D4FCCF /* SSCollectionViewItemInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = B2FC71BA1330424F00D4FCCF /* SSCollectionViewItemInternal.h */; };
 		B2FC9F5213CA73AB001E3F17 /* ViewCategoryTest.m in Sources */ = {isa = PBXBuildFile; fileRef = B2FC9F5113CA73AB001E3F17 /* ViewCategoryTest.m */; };
@@ -678,13 +678,26 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B215045F10583A7300409ED4 /* SSToolkit_Prefix.pch in Headers */,
+				B24E9E4D121DC29A0085F81E /* SSCategories.h in Headers */,
+				B24E9E6E121DC29A0085F81E /* SSToolkit.h in Headers */,
 				B24E9E43121DC29A0085F81E /* NSArray+SSToolkitAdditions.h in Headers */,
 				B24E9E45121DC29A0085F81E /* NSData+SSToolkitAdditions.h in Headers */,
 				B24E9E47121DC29A0085F81E /* NSDate+SSToolkitAdditions.h in Headers */,
 				B24E9E49121DC29A0085F81E /* NSString+SSToolkitAdditions.h in Headers */,
 				B24E9E4B121DC29A0085F81E /* NSURL+SSToolkitAdditions.h in Headers */,
-				B24E9E4D121DC29A0085F81E /* SSCategories.h in Headers */,
+				B24E9E73121DC29A0085F81E /* UIColor+SSToolkitAdditions.h in Headers */,
+				B24E9E75121DC29A0085F81E /* UIControl+SSToolkitAdditions.h in Headers */,
+				B24E9E77121DC29A0085F81E /* UIDevice+SSToolkitAdditions.h in Headers */,
+				B24E9E79121DC29A0085F81E /* UIImage+SSToolkitAdditions.h in Headers */,
+				B24E9E7B121DC29A0085F81E /* UIScrollView+SSToolkitAdditions.h in Headers */,
+				B24E9E7D121DC29A0085F81E /* UIView+SSToolkitAdditions.h in Headers */,
+				B24E9E7F121DC29A0085F81E /* UIViewController+SSToolkitAdditions.h in Headers */,
+				B227D2EA124931590078A059 /* NSDictionary+SSToolkitAdditions.h in Headers */,
+				B2AE1134126F963300534CF2 /* UIApplication+SSToolkitAdditions.h in Headers */,
+				B279539912FC67E300FFE28D /* UIScreen+SSToolkitAdditions.h in Headers */,
+				B2C50814151BAB4000E94614 /* NSBundle+SSToolkitAdditions.h in Headers */,
+				962F5F5E156CCD1200408648 /* NSNumber+SSToolkitAdditions.h in Headers */,
+				5841B48416013CDE000C05BD /* NSMutableArray+SSToolkitAdditions.h in Headers */,
 				B24E9E4E121DC29A0085F81E /* SSConcurrentOperation.h in Headers */,
 				B24E9E50121DC29A0085F81E /* SSDrawingUtilities.h in Headers */,
 				B24E9E51121DC29A0085F81E /* SSGradientView.h in Headers */,
@@ -696,43 +709,30 @@
 				B24E9E68121DC29A0085F81E /* SSPieProgressView.h in Headers */,
 				B24E9E6A121DC29A0085F81E /* SSTextField.h in Headers */,
 				B24E9E6C121DC29A0085F81E /* SSTextView.h in Headers */,
-				B24E9E6E121DC29A0085F81E /* SSToolkit.h in Headers */,
 				B24E9E71121DC29A0085F81E /* SSWebView.h in Headers */,
-				B24E9E73121DC29A0085F81E /* UIColor+SSToolkitAdditions.h in Headers */,
-				B24E9E75121DC29A0085F81E /* UIControl+SSToolkitAdditions.h in Headers */,
-				B24E9E77121DC29A0085F81E /* UIDevice+SSToolkitAdditions.h in Headers */,
-				B24E9E79121DC29A0085F81E /* UIImage+SSToolkitAdditions.h in Headers */,
-				B24E9E7B121DC29A0085F81E /* UIScrollView+SSToolkitAdditions.h in Headers */,
-				B24E9E7D121DC29A0085F81E /* UIView+SSToolkitAdditions.h in Headers */,
-				B24E9E7F121DC29A0085F81E /* UIViewController+SSToolkitAdditions.h in Headers */,
 				B27B1A1B12241D3400111EA2 /* SSCollectionView.h in Headers */,
 				B27B1A2212241D6F00111EA2 /* SSCollectionViewItem.h in Headers */,
 				B267D3451226CE0400B66519 /* SSCollectionViewController.h in Headers */,
-				B227D2EA124931590078A059 /* NSDictionary+SSToolkitAdditions.h in Headers */,
-				B2AE1134126F963300534CF2 /* UIApplication+SSToolkitAdditions.h in Headers */,
 				B2EA9F5E12F4A5C900C929D6 /* SSBadgeTableViewCell.h in Headers */,
 				B2EA9F6212F4A5E100C929D6 /* SSBadgeView.h in Headers */,
-				B28218BE12FA6AE100BAF3C6 /* SSToolkitDefines.h in Headers */,
 				B28219DD12FA8EB500BAF3C6 /* SSRatingPicker.h in Headers */,
 				B28C6D0712FBE5C400667755 /* SSRatingPickerViewController.h in Headers */,
-				B279539912FC67E300FFE28D /* UIScreen+SSToolkitAdditions.h in Headers */,
-				B279539E12FC6C6F00FFE28D /* SSRatingPickerScrollView.h in Headers */,
 				B2E241541301C71400F7DC3B /* SSAddressBarTextField.h in Headers */,
+				B2D8829413328EEF006B3F55 /* SSHUDWindow.h in Headers */,
+				B2136B3C13ABCC0C00FEBCFD /* SSBorderedView.h in Headers */,
+				B280E25F13BA76A300FCDA5C /* SSAnimatedImageView.h in Headers */,
+				B2F72A131534D54C00556B66 /* SSRateLimit.h in Headers */,
+				B2C7ED6C153A5624006ABE73 /* SSButton.h in Headers */,
+				B215045F10583A7300409ED4 /* SSToolkit_Prefix.pch in Headers */,
+				B28218BE12FA6AE100BAF3C6 /* SSToolkitDefines.h in Headers */,
+				B279539E12FC6C6F00FFE28D /* SSRatingPickerScrollView.h in Headers */,
 				B2E241561301C71400F7DC3B /* SSAddressBarTextFieldBackgroundView.h in Headers */,
 				B2E241581301C71400F7DC3B /* SSAddressBarTextFieldBackgroundViewInnerView.h in Headers */,
 				B2ABC6921329D14300521D20 /* SSCollectionViewItemTableViewCell.h in Headers */,
 				B2721BA0132F136C00D762FD /* SSCollectionViewInternal.h in Headers */,
 				B2FC71BB1330424F00D4FCCF /* SSCollectionViewItemInternal.h in Headers */,
-				B2D8829413328EEF006B3F55 /* SSHUDWindow.h in Headers */,
 				B25C8E611394327000DE7BFF /* SSCollectionViewExtremityTableViewCell.h in Headers */,
-				B2136B3C13ABCC0C00FEBCFD /* SSBorderedView.h in Headers */,
-				B280E25F13BA76A300FCDA5C /* SSAnimatedImageView.h in Headers */,
 				B229B468144CE2F500F71626 /* SSCollectionViewTableView.h in Headers */,
-				B2C50814151BAB4000E94614 /* NSBundle+SSToolkitAdditions.h in Headers */,
-				B2F72A131534D54C00556B66 /* SSRateLimit.h in Headers */,
-				B2C7ED6C153A5624006ABE73 /* SSButton.h in Headers */,
-				962F5F5E156CCD1200408648 /* NSNumber+SSToolkitAdditions.h in Headers */,
-				5841B48416013CDE000C05BD /* NSMutableArray+SSToolkitAdditions.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1037,6 +1037,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				LD_OPENMP_FLAGS = "-fopenmp -lxml2";
 				PRODUCT_NAME = SSToolkit;
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PRODUCT_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
@@ -1079,6 +1080,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				LD_OPENMP_FLAGS = "-fopenmp -lxml2";
 				PRODUCT_NAME = SSToolkit;
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PRODUCT_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
